@@ -9,6 +9,9 @@ export default function Home() {
         <Link href="/stuff/1">go to 1</Link>
       </li>
       <li>
+        <Link href="/zero/1">go to zero</Link>
+      </li>
+      <li>
         <Link href="/stuff/2">go to 2</Link>
       </li>
       <li>
