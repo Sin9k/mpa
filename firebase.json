@@ -6,6 +6,14 @@
       {
         "source": "/test",
         "destination": "/test.html"
+      },
+      {
+        "source": "/duma/karta",
+        "destination": "/duma/karta.html"
+      },
+      {
+        "source": "/stuff/**",
+        "destination": "/index.html"
       }
     ]
   }
